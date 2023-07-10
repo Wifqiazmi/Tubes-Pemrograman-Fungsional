@@ -1,4 +1,4 @@
-# Tubes Pemrograman Fungsional - Program Data Pemeluk Agama di Indonesia
+# Program Data Pemeluk Agama di Indonesia
 
 <p align="center">
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
@@ -8,22 +8,6 @@
   <a href="https://travis-ci.org/python/cpython">
     <img src="https://travis-ci.org/python/cpython.svg" alt="Build Status">
   
-
-## Tentang Python
-
-Python adalah bahasa pemrograman yang fokus pada kesederhanaan dan keterbacaan kode. Kami percaya bahwa pengembangan harus menjadi pengalaman yang menyenangkan dan kreatif untuk benar-benar memuaskan. Python menyediakan sintaksis yang ekspresif dan elegan, serta memiliki ekosistem yang luas dan aktif.
-
-Berikut adalah beberapa fitur dari Python:
-
-- Memiliki sistem pengelolaan paket yang kuat dengan Python Package Index (PyPI).
-- Mendukung berbagai paradigma pemrograman, termasuk pemrograman berorientasi objek, fungsional, dan pemrograman prosedural.
-- Memiliki dukungan pustaka standar yang lengkap dengan berbagai modul dan fungsi yang siap pakai.
-- Mudah dibaca dan dipahami dengan indentasi yang memisahkan blok kode.
-- Memiliki dukungan untuk pemrosesan berkas, pemrosesan data, dan pengembangan web.
-- Platform yang portabel dengan dukungan untuk berbagai sistem operasi.
-
-Python bersifat open source dan aktif dikembangkan oleh komunitas yang luas. Dokumentasi resmi, tutorial, dan contoh kode dapat ditemukan di [python.org](https://www.python.org/).
-
 ## Deskripsi
 program sederhana untuk mengelola data pemeluk agama di Indonesia. Program ini dibangun menggunakan paradigma pemrograman fungsional dan ditulis dalam bahasa pemrograman Python dengan menggunakan framework Streamlit.
 Program ini memungkinkan pengguna untuk melakukan beberapa operasi terhadap data pemeluk agama di Indonesia, antara lain:
